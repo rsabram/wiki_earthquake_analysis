@@ -5,7 +5,7 @@
 - Where would you live if you wanted to eliminate the risk of experiencing an earthquake? 
 - Where would you avoid living?
 
-Read the table of earthquakes from https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900 using *beautifulsoup* and load it to a pandas dataframe.
+Read the table of earthquakes from https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900 using *beautifulsoup* and load it to a pandas dataframe. An introduction to the request and beautifulsoup libraries is provided in `TuringAward_soup.ipynb`.
 
 #### Data cleaning tasks include:
 1. Replace empty strings with NaN
